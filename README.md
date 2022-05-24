@@ -8,5 +8,5 @@
 - 👯 I’m looking to collaborate on -->   java
 - 🤔 I’m looking for help with -->   java
 - 💬 Ask me about -->   anything 😜😜
-- 📫 How to reach me: -->   [Whatsapp](+94783223485) 🤙🤙
-
+- 📫 How to reach me: -->   [Whatsapp](whatsapp.com/+94783223485) 🤙🤙
+- 📫 [Linkedin](https://www.linkedin.com/in/akila-piumal-3b7040229/)
