@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on  -->   ebay🤑🤑
-- 🌱 I’m currently learning -->   java
-- 👯 I’m looking to collaborate on -->   java
-- 🤔 I’m looking for help with -->   java
-- 💬 Ask me about -->   anything 😜😜
+- 🔭 I’m currently working on  -->   [ebay.com](ebay.com)🤑🤑
+- 🌱 I’m currently learning -->   ***Java***
+- 👯 I’m looking to collaborate on -->   ***Java***
+- 🤔 I’m looking for help with -->   ***Java***
+- 💬 Ask me about -->   Anything 😜😜
 - 📫 How to reach me: -->   [Linkedin -@Akila Piumal](https://www.linkedin.com/in/akila-piumal-3b7040229/)
 
 
