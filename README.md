@@ -35,8 +35,6 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?Akila-Piumal=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <h2 align="left">Languages and Tools:</h2>
 
